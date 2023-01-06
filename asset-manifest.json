@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/breiner/static/css/main.3cd6ac2e.css",
+    "main.js": "/breiner/static/js/main.d8634f7f.js",
+    "static/js/787.28cb0dcd.chunk.js": "/breiner/static/js/787.28cb0dcd.chunk.js",
+    "static/media/breiner.png": "/breiner/static/media/breiner.c9eed46c2afee3882bb3.png",
+    "static/media/fotico.jpg": "/breiner/static/media/fotico.14ded1a5063e40362177.jpg",
+    "static/media/css2.png": "/breiner/static/media/css2.7654ce00c5ac2e76e015.png",
+    "static/media/html2.png": "/breiner/static/media/html2.31497a13d5b51cea9b7d.png",
+    "index.html": "/breiner/index.html",
+    "main.3cd6ac2e.css.map": "/breiner/static/css/main.3cd6ac2e.css.map",
+    "main.d8634f7f.js.map": "/breiner/static/js/main.d8634f7f.js.map",
+    "787.28cb0dcd.chunk.js.map": "/breiner/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cd6ac2e.css",
+    "static/js/main.d8634f7f.js"
+  ]
+}
